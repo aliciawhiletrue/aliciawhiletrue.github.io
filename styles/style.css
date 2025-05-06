@@ -52,8 +52,8 @@ p {
 .top-menu a {
 	text-wrap: nowrap;
 	margin-top: 15px;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
 	padding: 10px;
 	font-size: 13pt;
 	text-decoration: none;
